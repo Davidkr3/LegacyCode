@@ -1,0 +1,67 @@
+
+*mma.sample.es.ejemplo2.Game#wrongAnswer()Z~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaõ õ("3*˝
+3~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaú ú(¨
+©
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaú ú(
+%0java.io.PrintStream"__id*
+""¢ü
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaú ú(9
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*%#
+!Question was incorrectly answered2println(Ljava/lang/String;)¨
+©
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaù ù(
+%2java.io.PrintStream"__id*
+""“
+œ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaù ù(
+%3java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+playersˆÛ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaù ù(/
+%4java.lang.String",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%3java.util.ArrayList*
+""2get(I)·
+ﬁ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaù ù(O
+%5java.lang.String"__concat*
+
+%4java.lang.String* 
+ was sent to the penalty boxïí
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaù ù(P
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*
+
+%5java.lang.String2println(Ljava/lang/String;)“
+œ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java° °(
+%7java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+players–Õ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java° °(%	
+%8int"java.util.ArrayList#size()I*
+
+%7java.util.ArrayList2size()*
+1*é
+1~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java¢	 ¢("à
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java¢ ¢(
+""B
+mma.sample.es.ejemplo2.Game

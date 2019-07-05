@@ -1,0 +1,7 @@
+organization=ayague-github
+projectKey=ayague_calculadora
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27038
+dashboardUrl=https://sonarcloud.io/dashboard?id=ayague_calculadora
+ceTaskId=AWvBoSIsEhtVo_Ew59qK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWvBoSIsEhtVo_Ew59qK

@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+.,mma.sample.es.ejemplo2,App,0,0,1,1,8,1,0,0,-1.0,0,0
+.,mma.sample.es.ejemplo2,Game,10,0,11,8,120,35,0,0,0.0,1,0
+.,mma.sample.es.ejemplo2,AppTest,0,0,3,3,24,3,0,0,-1.0,0,0
+.,mma.sample.es.ejemplo2,GameTest,0,0,8,8,26,8,0,0,-1.0,0,0
+.,mma.sample.es.ejemplo2,SomeTest,0,0,1,1,5,1,0,0,-1.0,0,0
+.,mma.sample.es.ejemplo2.runner,GameRunner,1,0,1,1,20,3,0,0,0.0,0,1

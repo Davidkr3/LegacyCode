@@ -1,0 +1,26 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+.,mma.sample.es.ejemplo2,App,main,3,1,1
+.,mma.sample.es.ejemplo2,Game,Game,8,2,0
+.,mma.sample.es.ejemplo2,Game,createRockQuestion,3,1,1
+.,mma.sample.es.ejemplo2,Game,isPlayable,3,1,0
+.,mma.sample.es.ejemplo2,Game,add,9,1,1
+.,mma.sample.es.ejemplo2,Game,howManyPlayers,3,1,0
+.,mma.sample.es.ejemplo2,Game,roll,26,5,1
+.,mma.sample.es.ejemplo2,Game,askQuestion,6,5,0
+.,mma.sample.es.ejemplo2,Game,currentCategory,12,10,0
+.,mma.sample.es.ejemplo2,Game,wasCorrectlyAnswered,27,6,0
+.,mma.sample.es.ejemplo2,Game,wrongAnswer,8,2,0
+.,mma.sample.es.ejemplo2,Game,didPlayerWin,3,1,0
+.,mma.sample.es.ejemplo2,AppTest,AppTest,3,1,1
+.,mma.sample.es.ejemplo2,AppTest,suite,3,1,0
+.,mma.sample.es.ejemplo2,AppTest,testApp,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testGame,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testCreateRockQuestion,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testIsPlayable,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testAdd,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testHowManyPlayers,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testRoll,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testWasCorrectlyAnswered,3,1,0
+.,mma.sample.es.ejemplo2,GameTest,testWrongAnswer,3,1,0
+.,mma.sample.es.ejemplo2,SomeTest,true_is_true,3,1,0
+.,mma.sample.es.ejemplo2.runner,GameRunner,main,17,3,1

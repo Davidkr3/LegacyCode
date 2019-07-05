@@ -1,0 +1,190 @@
+
+3mma.sample.es.ejemplo2.Game#wasCorrectlyAnswered()Z|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javas s($"3"6"9*Ù
+3~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaå å(	≠
+™
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaå å(
+%14java.io.PrintStream"__id*
+""ôñ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaå å(/
+%15void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%14java.io.PrintStream*
+Answer was corrent!!!!2println(Ljava/lang/String;)≠
+™
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé é(
+%16java.io.PrintStream"__id*
+""”
+–
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé é(
+%17java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+players¯ı
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé é(0
+%18java.lang.String",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%17java.util.ArrayList*
+""2get(I)–
+Õ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé è(
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+	 now has …
+∆
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé ê(
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+""”
+–
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé ë(
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+ Gold Coins.òï
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaé ë(
+%22void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%16java.io.PrintStream*
+
+%21java.lang.String2println(Ljava/lang/String;)·
+ﬁ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaì ì("
+%23boolean"+mma.sample.es.ejemplo2.Game#didPlayerWin()Z*
+mma.sample.es.ejemplo2.Game”
+–
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaï ï(
+%24java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+players“œ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaï ï(&
+
+%25int"java.util.ArrayList#size()I*
+
+%24java.util.ArrayList2size()*
+1*é
+4~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÖ Ö("à
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÖ Ö(
+""*≥
+6~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÉ É(”
+–
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÑ Ñ( 
+%12java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+players“œ
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÑ Ñ('
+
+%13int"java.util.ArrayList#size()I*
+
+%12java.util.ArrayList2size()*
+4*é
+7~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÅ Å("à
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaÅ Å(
+""*…
+9|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javav v(
+™
+ß
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javav v(
+%0java.io.PrintStream"__id*
+""ïí
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javav v(0
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+Answer was correct!!!!2println(Ljava/lang/String;)™
+ß
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax x(
+%2java.io.PrintStream"__id*
+""–
+Õ
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax x(
+%3java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+playersÙÒ
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax x(1
+%4java.lang.String",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%3java.util.ArrayList*
+""2get(I)Ã
+…
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax y(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+	 now has ≈
+¬
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax z(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""œ
+Ã
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax {(
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+ Gold Coins.ìê
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javax {(
+
+%8void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*
+
+%7java.lang.String2println(Ljava/lang/String;)ﬁ
+€
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java} }(#
+%9boolean"+mma.sample.es.ejemplo2.Game#didPlayerWin()Z*
+mma.sample.es.ejemplo2.Game—
+Œ
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java ( 
+%10java.util.ArrayList"__id*,**
+mma.sample.es.ejemplo2.Game"	
+players–Õ
+|
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.java ('
+
+%11int"java.util.ArrayList#size()I*
+
+%10java.util.ArrayList2size()*
+7*é
+1~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaó
+ ó("à
+~
+rC:\personal\Otras_Actividades\MMA\2018\Workspaces\ejemplo2\ejemplo2\src\main\java\mma\sample\es\ejemplo2\Game.javaó ó(
+""B
+mma.sample.es.ejemplo2.Game
