@@ -113,7 +113,7 @@ public class Calculator {
                 for(int i = 0; i < (str.length() - 1); i++) {
                     str2 += str.charAt(i);
                 }
-                if(str2 == "") {
+                if(str2.equals("")) {
                     inText.setText("0");
                 } else {
                     inText.setText(str2);
